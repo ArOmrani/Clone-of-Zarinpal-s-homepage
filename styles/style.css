@@ -827,6 +827,7 @@ footer{
     }
     .grid{
         padding: 0;
+        margin-bottom: 30px;
     }
     .support-box{
         padding: 0 50px;
