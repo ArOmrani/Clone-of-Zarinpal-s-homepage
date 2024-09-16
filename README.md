@@ -1,4 +1,4 @@
-This is the clone of https://www.zarinpal.com/'s home page .
+This is the clone of https://www.zarinpal.com 's home page .
 
 
 
