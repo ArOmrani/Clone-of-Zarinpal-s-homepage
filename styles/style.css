@@ -852,7 +852,7 @@ footer{
 @media (max-width:576px){
     .hero-text h2{
         font-size: 20px;
-        text-align: center;
+        text-align:right;
     }
     .box1 .box-img,.box2 .box-img  , .box3 .box-img{
         display: none;
