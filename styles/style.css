@@ -328,7 +328,8 @@ button a{
     margin-top: 10px;
     color: #303030;
     text-align: justify;
-    font-family: "YekanBakhMedium" ,Arial, Helvetica, sans-serif;
+    font-family: "iranyekanwebregular" ,Arial, Helvetica, sans-serif;
+    
 }
 .box-text hr{
     margin: 20px 0;
@@ -435,7 +436,7 @@ button a{
     margin-top: 21px;
     white-space: break-spaces;
     text-align: justify;
-    width: 95%;
+    width: 100%;
 
 }
 .grid img{
@@ -800,6 +801,9 @@ footer{
     .box4 img,.box5 img{
         display: none;
     }  
+    #img-arrow{
+        display: block;
+    }
     .box-text{
         text-align: center;
      }
@@ -823,24 +827,18 @@ footer{
         flex-direction: column;
         justify-content: center;
         margin: 0 auto;
-    
     }
     .grid{
         padding: 0;
-        margin-bottom: 30px;
     }
     .support-box{
         padding: 0 50px;
     }
-    
     .footer-content1 {
     
         display: grid;
         grid-template-columns: repeat(2,1fr);
-        
-
-    }
-    
+    } 
     footer{
         width: auto;
         padding-right: 55px;
@@ -853,7 +851,7 @@ footer{
 @media (max-width:576px){
     .hero-text h2{
         font-size: 20px;
-        text-align:right;
+        text-align: right;
     }
     .box1 .box-img,.box2 .box-img  , .box3 .box-img{
         display: none;
