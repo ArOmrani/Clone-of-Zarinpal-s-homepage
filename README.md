@@ -1,4 +1,4 @@
-This project is the clone of https://www.zarinpal.com 's home page .
+This project is the clone of https://www.zarinpal.com 's home page. The purpose of this project is to practice web development skills and it does not involve any commercial use or copyright infringement.
 
 
 
